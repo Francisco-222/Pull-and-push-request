@@ -10,9 +10,12 @@ def lone_sum(a, b, c):
     else:
         return a+b+c
 
-    scenario 1:
+----------
+-------
+scenario 1:
 Let us assume a=12,b=9 c=4
 if a>=b true so we will return c which is 4
+
 scenario 2:
 Let us assume a=8,b=9 c=4
 if a>=b false
