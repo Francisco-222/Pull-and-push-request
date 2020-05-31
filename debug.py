@@ -22,4 +22,4 @@ def lone_sum(a, b, c):
     elif a == c:
         return b
     else:
-        print(lone_sum(3, 5, 7)
+        print(lone_sum(3, 5, 7))
