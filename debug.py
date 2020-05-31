@@ -23,3 +23,5 @@ def lone_sum(a, b, c):
         return b
     else:
         print(lone_sum(3, 5, 7))
+  
+#Have a good day
